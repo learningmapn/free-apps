@@ -46,6 +46,10 @@ Mọi ý kiến, báo lỗi, đề xuất tính năng đều được chào đó
 
 Free for personal & commercial use. Không kèm warranty. Chi tiết license được ghi rõ trong từng ứng dụng.
 
+### 🌟 Ủng hộ chúng tôi
+
+Ủng hộ chúng tôi và học thêm kiến thức tại: **<https://learningmap.net>**
+
 ---
 
 ## 🇬🇧 English
@@ -86,6 +90,10 @@ Feedback, bug reports, and feature requests are all welcome. Open an Issue or Pu
 ### License
 
 Free for personal & commercial use. No warranty. Each app ships with its own license details.
+
+### 🌟 Support Us
+
+Support us and learn more at: **<https://learningmap.net>**
 
 ---
 
