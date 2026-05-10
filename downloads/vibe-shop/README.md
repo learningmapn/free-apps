@@ -5,7 +5,28 @@
 
 📥 **Tải về / Download**: <https://github.com/learningmapn/free-apps/tree/main/downloads/vibe-shop>
 
-[Tiếng Việt](#-tiếng-việt) · [English](#-english)
+[Tiếng Việt](#-tiếng-việt) · [English](#-english) · [Screenshots](#-giao-diện--screenshots)
+
+---
+
+## 📸 Giao diện / Screenshots
+
+| | |
+|:---:|:---:|
+| ![Dashboard](screenshots/01-dashboard.png) | ![POS](screenshots/02-pos.png) |
+| **Dashboard** — Tổng quan doanh thu / Revenue overview | **POS** — Bán hàng tại quầy / Point of Sale |
+| ![KDS](screenshots/03-kds.png) | ![Products](screenshots/04-products.png) |
+| **KDS** — Bếp/Bar Kanban / Kitchen Display | **Sản phẩm / Products** — Quản lý menu / Menu management |
+| ![Inventory](screenshots/05-inventory.png) | ![Orders](screenshots/06-orders.png) |
+| **Kho hàng / Inventory** — Recipe-based deduct | **Đơn hàng / Orders** — Lịch sử & chi tiết / History & details |
+| ![Customers](screenshots/07-customers.png) | ![Reports](screenshots/08-reports.png) |
+| **Khách hàng / Customers** — Loyalty Vàng/Bạc/Đồng | **Báo cáo / Reports** — Doanh thu 30 ngày / 30-day revenue |
+| ![Simulator](screenshots/09-simulator.png) | ![Tycoon](screenshots/10-tycoon.png) |
+| **Mô phỏng / Simulator** — Thử nghiệm 30 ngày / 30-day what-if | **Tycoon** — Quản lý quán bằng game / Manage as a game |
+| ![Settings](screenshots/11-settings.png) | ![Onboarding](screenshots/12-onboarding.png) |
+| **Cài đặt / Settings** — 14 tính năng bật/tắt / 14 toggles | **Onboarding** — Setup 3 bước / 3-step setup |
+| ![Customer QR Mobile](screenshots/13-customer-qr-mobile.png) | |
+| **QR khách / Customer QR** — Tự gọi món qua điện thoại / Self-order on phone | |
 
 ---
 
