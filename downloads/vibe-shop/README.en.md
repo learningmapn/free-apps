@@ -17,19 +17,19 @@
 
 | | |
 |:---:|:---:|
-| ![Dashboard](screenshots/01-dashboard.png) | ![POS](screenshots/02-pos.png) |
+| ![Dashboard](screenshots/01-dashboard.webp) | ![POS](screenshots/02-pos.webp) |
 | **Dashboard** — Revenue overview | **POS** — Point of sale |
-| ![KDS](screenshots/03-kds.png) | ![Products](screenshots/04-products.png) |
+| ![KDS](screenshots/03-kds.webp) | ![Products](screenshots/04-products.webp) |
 | **KDS** — Kitchen/Bar Kanban | **Products** — Menu management |
-| ![Inventory](screenshots/05-inventory.png) | ![Orders](screenshots/06-orders.png) |
+| ![Inventory](screenshots/05-inventory.webp) | ![Orders](screenshots/06-orders.webp) |
 | **Inventory** — Recipe-based deduct | **Orders** — History & details |
-| ![Customers](screenshots/07-customers.png) | ![Reports](screenshots/08-reports.png) |
+| ![Customers](screenshots/07-customers.webp) | ![Reports](screenshots/08-reports.webp) |
 | **Customers** — Gold/Silver/Bronze loyalty | **Reports** — 30-day revenue |
-| ![Simulator](screenshots/09-simulator.png) | ![Tycoon](screenshots/10-tycoon.png) |
+| ![Simulator](screenshots/09-simulator.webp) | ![Tycoon](screenshots/10-tycoon.webp) |
 | **Simulator** — 30-day what-if | **Tycoon** — Manage your shop as a game |
-| ![Settings](screenshots/11-settings.png) | ![Onboarding](screenshots/12-onboarding.png) |
+| ![Settings](screenshots/11-settings.webp) | ![Onboarding](screenshots/12-onboarding.webp) |
 | **Settings** — 14 toggleable features | **Onboarding** — 3-step setup |
-| ![Customer QR](screenshots/13-customer-qr-mobile.png) | |
+| ![Customer QR](screenshots/13-customer-qr-mobile.webp) | |
 | **Customer QR** — Self-order on phone | |
 
 ---

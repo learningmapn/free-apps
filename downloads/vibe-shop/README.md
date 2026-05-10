@@ -17,19 +17,19 @@
 
 | | |
 |:---:|:---:|
-| ![Dashboard](screenshots/01-dashboard.png) | ![POS](screenshots/02-pos.png) |
+| ![Dashboard](screenshots/01-dashboard.webp) | ![POS](screenshots/02-pos.webp) |
 | **Dashboard** — Tổng quan doanh thu | **POS** — Bán hàng tại quầy |
-| ![KDS](screenshots/03-kds.png) | ![Sản phẩm](screenshots/04-products.png) |
+| ![KDS](screenshots/03-kds.webp) | ![Sản phẩm](screenshots/04-products.webp) |
 | **KDS** — Bếp/Bar Kanban | **Sản phẩm** — Quản lý menu |
-| ![Kho hàng](screenshots/05-inventory.png) | ![Đơn hàng](screenshots/06-orders.png) |
+| ![Kho hàng](screenshots/05-inventory.webp) | ![Đơn hàng](screenshots/06-orders.webp) |
 | **Kho hàng** — Trừ kho theo công thức | **Đơn hàng** — Lịch sử & chi tiết |
-| ![Khách hàng](screenshots/07-customers.png) | ![Báo cáo](screenshots/08-reports.png) |
+| ![Khách hàng](screenshots/07-customers.webp) | ![Báo cáo](screenshots/08-reports.webp) |
 | **Khách hàng** — Loyalty Vàng/Bạc/Đồng | **Báo cáo** — Doanh thu 30 ngày |
-| ![Mô phỏng](screenshots/09-simulator.png) | ![Tycoon](screenshots/10-tycoon.png) |
+| ![Mô phỏng](screenshots/09-simulator.webp) | ![Tycoon](screenshots/10-tycoon.webp) |
 | **Mô phỏng** — Thử nghiệm 30 ngày | **Tycoon** — Quản lý quán bằng game |
-| ![Cài đặt](screenshots/11-settings.png) | ![Onboarding](screenshots/12-onboarding.png) |
+| ![Cài đặt](screenshots/11-settings.webp) | ![Onboarding](screenshots/12-onboarding.webp) |
 | **Cài đặt** — 14 tính năng bật/tắt | **Onboarding** — Setup 3 bước |
-| ![QR khách](screenshots/13-customer-qr-mobile.png) | |
+| ![QR khách](screenshots/13-customer-qr-mobile.webp) | |
 | **QR khách** — Tự gọi món qua điện thoại | |
 
 ---
