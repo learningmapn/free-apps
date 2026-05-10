@@ -117,7 +117,7 @@ Speed 0.25× → 240×, one simulated day in 3.5 real seconds. Entertaining, and
 |---|---|---|
 | 🍎 **macOS** Apple Silicon (M1/M2/M3) | `Vibe-Shop-1.2.0-aarch64.dmg` (~4.2 MB) | Double-click DMG → drag into Applications |
 | 🍎 **macOS** Intel | (Coming via GitHub Actions) | Same as above |
-| 🪟 **Windows 10/11** x64 | (Coming via GitHub Actions) | Install WebView2 Runtime → run `.msi` |
+| 🪟 **Windows 10/11** x64 | `Vibe Shop Setup 1.2.0.exe` (~83 MB) | Double-click `.exe` → click **Next** → **Install** |
 | 🐧 **Linux** | (Coming via GitHub Actions) | `.AppImage` runs directly |
 
 > **First open on macOS**: Gatekeeper will block because the app isn't signed with an Apple Developer ID (it's not malware — signing just costs $99/year, which is steep for a free app). Go to **System Settings → Privacy & Security** → click **Open Anyway**. After that it opens normally.

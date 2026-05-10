@@ -34,8 +34,11 @@ Triết lý của dự án rất đơn giản:
 free-apps/
 └── downloads/
     └── vibe-shop/
-        ├── README.md                       # Giới thiệu chi tiết
-        └── Vibe-Shop-1.2.0-aarch64.dmg     # File cài macOS Apple Silicon
+        ├── README.md                       # Giới thiệu chi tiết (VI)
+        ├── README.en.md                    # English
+        ├── screenshots/                    # Hình ảnh giao diện (.webp)
+        ├── Vibe-Shop-1.2.0-aarch64.dmg     # File cài macOS Apple Silicon
+        └── Vibe Shop Setup 1.2.0.exe       # File cài Windows 10/11 x64
 ```
 
 ### Đóng góp
@@ -79,8 +82,11 @@ The philosophy is simple:
 free-apps/
 └── downloads/
     └── vibe-shop/
-        ├── README.md                       # Detailed introduction
-        └── Vibe-Shop-1.2.0-aarch64.dmg     # macOS Apple Silicon installer
+        ├── README.md                       # Detailed introduction (VI)
+        ├── README.en.md                    # English
+        ├── screenshots/                    # UI screenshots (.webp)
+        ├── Vibe-Shop-1.2.0-aarch64.dmg     # macOS Apple Silicon installer
+        └── Vibe Shop Setup 1.2.0.exe       # Windows 10/11 x64 installer
 ```
 
 ### Contributing

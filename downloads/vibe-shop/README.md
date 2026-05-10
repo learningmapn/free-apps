@@ -117,7 +117,7 @@ Tốc độ 0.25× → 240×, 1 ngày sim trong 3.5 giây thực. Vừa giải t
 |---|---|---|
 | 🍎 **macOS** Apple Silicon (M1/M2/M3) | `Vibe-Shop-1.2.0-aarch64.dmg` (~4.2 MB) | Double-click DMG → kéo vào Applications |
 | 🍎 **macOS** Intel | (Sắp có qua GitHub Actions) | Tương tự |
-| 🪟 **Windows 10/11** x64 | (Sắp có qua GitHub Actions) | Cài WebView2 Runtime → chạy `.msi` |
+| 🪟 **Windows 10/11** x64 | `Vibe Shop Setup 1.2.0.exe` (~83 MB) | Double-click `.exe` → bấm **Next** → **Install** |
 | 🐧 **Linux** | (Sắp có qua GitHub Actions) | `.AppImage` chạy thẳng |
 
 > **macOS lần đầu mở**: Gatekeeper sẽ chặn vì app chưa ký Apple Developer ID (không phải malware — chỉ là ký mất 99 USD/năm cho người làm app miễn phí). Vào **System Settings → Privacy & Security** → bấm **Open Anyway**. Lần sau mở thẳng.
